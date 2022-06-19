@@ -1,5 +1,4 @@
 import { useState } from "react";
-
 const TableHead = ({ columns, handleSorting }) => {
   const [sortField, setSortField] = useState("");
   const [order, setOrder] = useState("asc");
@@ -17,9 +16,9 @@ const TableHead = ({ columns, handleSorting }) => {
       <tr>
         {columns.map(({ label, accessor, sortable }) => {
           const cl = sortable
-            ? sortField && sortField === accessor && order === "asc"
+            ? sortField === accessor && order === "asc"
               ? "up"
-              : sortField && sortField === accessor && order === "desc"
+              : sortField === accessor && order === "desc"
               ? "down"
               : "default"
             : "";

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Abbie",
+    "country": "Russia",
+    "github_username": "acordobes0",
+    "money": "$5.33"
+  },
+  {
+    "id": 2,
+    "name": "Adam",
+    "country": "Philippines",
+    "github_username": "abalke1",
+    "money": "$7.53"
+  },
+  {
+    "id": 3,
+    "name": "Ulric",
+    "country": "Indonesia",
+    "github_username": "ubruce2",
+    "money": "$1.55"
+  },
+  {
+    "id": 4,
+    "name": "Rani",
+    "country": "Portugal",
+    "github_username": "rfirsby3",
+    "money": "$1.46"
+  },
+  {
+    "id": 5,
+    "name": "Sharia",
+    "country": "China",
+    "github_username": "slarderot4",
+    "money": "$8.38"
+  },
+  {
+    "id": 6,
+    "name": "Patin",
+    "country": "Portugal",
+    "github_username": "ptyre5",
+    "money": "$9.21"
+  }
+]
