@@ -1,4 +1,4 @@
-## React sortable table ([View Demo](https://react-sortable-table.herokuapp.com/))
+## React sortable table ([View Demo](https://react-sortable-table2.herokuapp.com/))
 
 ### Clone this project
 

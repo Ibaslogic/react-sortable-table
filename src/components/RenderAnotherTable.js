@@ -1,5 +1,5 @@
 import Table from "./Table";
-import tableData1 from "../tableData2.json";
+import tableData2 from "../tableData2.json";
 
 const columns = [
   { label: "Name", accessor: "name", sortable: true },
@@ -13,7 +13,7 @@ const RenderAnotherTable = () => {
     <>
       <Table
         caption="List of developers with an affordable course (has no default sorting)."
-        data={tableData1}
+        data={tableData2}
         columns={columns}
       />
     </>
