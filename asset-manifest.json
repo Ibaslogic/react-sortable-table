@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-sortable-table/static/css/main.1e37e979.css",
+    "main.js": "/react-sortable-table/static/js/main.b3406cdf.js",
+    "index.html": "/react-sortable-table/index.html",
+    "main.1e37e979.css.map": "/react-sortable-table/static/css/main.1e37e979.css.map",
+    "main.b3406cdf.js.map": "/react-sortable-table/static/js/main.b3406cdf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e37e979.css",
+    "static/js/main.b3406cdf.js"
+  ]
+}
