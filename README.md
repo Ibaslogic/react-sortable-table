@@ -1,4 +1,6 @@
-## React sortable table ([View Demo](https://react-sortable-table2.herokuapp.com/))
+## React sortable table ([View Demo](https://ibaslogic.github.io/react-sortable-table))
+
+Read the step-by-step guide here: https://blog.logrocket.com/creating-react-sortable-table/
 
 ### Clone this project
 
